@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shenol_disanayaka_0d0dc79" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shenol_disanayaka_0d0dc79" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shenoldisa3705" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenoldisa3705" height="30" width="40" /></a>
-<a href="https://fb.com/shenol disanayaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenol disanayaka" height="30" width="40" /></a>
+<a href="https://dev.to/shenol_disanayaka_0d0dc79" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shenol_disanayaka_0d0dc79" height="30" width="40" />
+<a href="https://linkedin.com/in/shenoldisa3705" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenoldisa3705" height="30" width="40" />
+<a href="https://fb.com/shenol disanayaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenol disanayaka" height="30" width="40" />
 <a href="https://instagram.com/shenol_56" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shenol_56" height="30" width="40" /></a>
 </p>
 
